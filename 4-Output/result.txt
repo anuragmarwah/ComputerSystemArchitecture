@@ -1,4 +1,0 @@
-m = 12 k = 2
-p = 16384
-Number of Instructions = 548
-Mis-Prediction Rate = 14.2336
